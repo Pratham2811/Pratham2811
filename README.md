@@ -29,6 +29,7 @@
 <p align="left">
 <a href="https://dev.to/pratham2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pratham2811" height="30" width="40" /></a>
 <a href="https://twitter.com/prath56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prath56" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-madane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-madane/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pratham56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pratham56" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prath19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prath19" height="30" width="40" /></a>
 </p>
