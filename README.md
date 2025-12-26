@@ -16,8 +16,11 @@
   <a href="https://www.linkedin.com/in/prathamesh-madane/">
     <img src="https://img.shields.io/badge/LinkedIn-Prathamesh-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@prathameshmadane">
+  <a href="https://medium.com/@prathameshmadane45">
     <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
@@ -25,7 +28,16 @@
 
 ## 👨‍💻 About Me
 
-My approach is simple: I don't just rely on frameworks; I try to understand the tools I use. I aim to write code that is clean, handles errors gracefully, and scales well. I am particularly interested in building System . 
+My approach is simple: I don't just rely on frameworks; I try to understand the tools I use. I aim to write code that is clean, handles errors gracefully, and scales well. I am particularly interested in System Design and Distributed Systems.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham2811&show_icons=true&theme=radical&hide_border=true" alt="Prathamesh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham2811&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -52,22 +64,6 @@ My approach is simple: I don't just rely on frameworks; I try to understand the 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-
----
-
-## 📂 Projects
-
-### [StorageApp](https://github.com/Pratham2811/backend)
-*A dedicated file storage system.*
-- Handles file uploads and data management reliably.
-- Focuses on proper error handling and data validation.
-- Designed with clear permissions and secure access in mind.
-
-### [Hostel Management System](https://github.com/Pratham2811?tab=repositories)
-*A backend system for managing hostel operations.*
-- Implements secure user login and role-based access (Admin vs Student).
-- structured code organization to make updates easier.
-- Uses a relational database schema to handle real-world booking scenarios.
 
 ---
 
