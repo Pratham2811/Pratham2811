@@ -30,16 +30,7 @@
 
 My approach is simple: I don't just rely on frameworks; I try to understand the tools I use. I aim to write code that is clean, handles errors gracefully, and scales well. I am particularly interested in System Design and Distributed Systems.
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham2811&show_icons=true&theme=radical&hide_border=true" alt="Prathamesh's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham2811&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🛠 Tech Stack
 
