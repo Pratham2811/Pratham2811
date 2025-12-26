@@ -62,7 +62,7 @@ My approach is simple: I don't just rely on frameworks; I try to understand the 
 
 I write articles to document my learning in backend engineering and networking.
 
-* [**Read my articles on Medium**](https://medium.com/@prathameshmadane)
+* [**Read my articles on Medium**](https://medium.com/@prathameshmadane45)
 
 ---
 
