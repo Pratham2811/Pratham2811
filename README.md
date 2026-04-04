@@ -19,7 +19,7 @@
   <a href="https://medium.com/@prathameshmadane45">
     <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="YOUR_RESUME_LINK_HERE">
+  <a href="https://drive.google.com/file/d/1TXmg5kSAkwbFjVGYXADXeuX5A4NiRgSw/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
 </p>
